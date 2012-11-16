@@ -1,0 +1,123 @@
+
+	html, body, div, span, applet, object, iframe,
+	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+	a, abbr, acronym, address, big, cite, code,
+	del, dfn, em, font, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var,
+	dl, dt, dd, ol, ul, li,
+	fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td
+	{
+		margin:0;
+		padding:0;
+	}
+	
+	body
+	{
+		background-color:#ccc;
+		margin:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	
+	.top-header
+	{
+		background-color:lightBlue;
+		border-width:1px;
+		border-style:solid;
+		border-color:#ddd;
+		text-align:center;
+		width:100%;
+	}
+	
+	.div-box
+	{
+		
+		margin:10px;
+		border-width:1px;
+		border-style: solid; 
+		border-color: #ddd;
+		text-align:center;
+		background-color:lightGreen;
+	}
+	
+	.div-box-header
+	{
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-color: #ddd;
+		height:20px;
+	}
+	
+	.btn
+	{
+		display:block;
+		text-decoration:none;
+		color:black;
+		
+		background-color:lightBlue;
+		border-width:1px;
+		border-style: solid;
+		border-color: #ddd;
+		padding:10px 5px 10px 5px ;
+		text-align:left;
+		
+	}
+	
+	.tweets, .fbprofile
+	{
+		list-style:none;
+		text-align:left;
+	}
+	
+	.btn:hover
+	{
+		background-color:blue;
+	}
+	.width33
+	{
+		width:32%;
+		margin:10px;
+	}
+	.table td
+	{
+		margin:5px;
+	}
+	
+	.listview
+	{
+		list-style:none;
+		padding:0;
+	}
+	
+	video
+	{
+		width:100%;
+	}
+	.padding10px
+	{
+		padding:10px;
+	}
+	
+	.footer
+	{
+		background-color:lightBlue;
+		border-width:1px;
+		border-style: solid;
+		border-color: #ddd;
+		text-align:center;
+		width:100%;
+	}
+	.text-align-left
+	{
+		text-align:left;
+	}
+	
+	.white-line
+	{
+		border-color:white;
+	}
+	
+	
+	/*for large screens*/
+	
